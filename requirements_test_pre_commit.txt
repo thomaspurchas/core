@@ -9,3 +9,4 @@ isort==5.5.2
 pydocstyle==5.1.1
 pyupgrade==2.7.2
 yamllint==1.24.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
