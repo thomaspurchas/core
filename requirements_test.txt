@@ -26,3 +26,5 @@ requests_mock==1.8.0
 responses==0.10.6
 stdlib-list==0.7.0
 tqdm==4.48.2
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
